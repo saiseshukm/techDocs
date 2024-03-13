@@ -1,0 +1,24 @@
+Netconf & YANG
+https://www.youtube.com/watch?v=Vr4kB1_6fLQ - Netconf basics
+https://www.youtube.com/watch?v=m6spTjQyTEo - Netconf & SDN
+https://www.youtube.com/watch?v=33VBb6N4yOY&t=8s - YANG - Good enough
+
+YANG Indepth
+https://www.youtube.com/watch?v=AdIcYrz3AjU
+https://www.youtube.com/watch?v=23iu0RWZ0UE
+
+ONOS Details
+https://www.youtube.com/watch?v=cTHVwZ9FzN4&t=1125s - Architecture In-Depth - Best
+https://www.youtube.com/watch?v=n1dvxrCZlgQ - ONOS Architecture From Thomas
+
+Dynamic Configuration Subsystem
+https://www.youtube.com/watch?v=v6POJSyry9I&t=1771s - Dynamic configuration subsystem
+https://wiki.onosproject.org/display/ONOS/Dynamic+Configuration+Subsystem - Store used by Dynamic config system
+
+Micro ONOS using GOYANG & YGOT
+https://www.youtube.com/watch?v=pVHCVJzTQR0
+https://www.youtube.com/watch?v=I-dkTo64iuo
+https://www.youtube.com/watch?v=ywL_Rzi_a1g
+
+ONOS Youtube Channel
+https://www.youtube.com/c/onosproject
